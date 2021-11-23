@@ -1,0 +1,111 @@
+#main{
+  background-color: rgb(238, 238, 238);
+  margin: auto;
+  width: 100%;
+  color:rgb(71, 71, 71);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#title{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+h1{
+  font-weight: bold;
+  font-size: 65px;
+}
+
+#title p{
+  font-size: 20px;
+}
+
+#image{
+  display: block;
+  margin: auto;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  padding-bottom: 10px;
+}
+
+#img-caption{
+  text-align: center;
+}
+
+#quote{
+  text-align: center;
+  line-height: 40px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+q{
+  font-size: 50px;
+  font-style: italic;
+}
+
+cite{
+  font-size: 30px;
+}
+
+#tribute-info{
+  background-color: rgb(231, 230, 230);
+  margin: auto;
+  padding-bottom: 30px;
+  padding-top: 1px;
+  max-width:1100px
+}
+
+h2{
+  text-align: center;
+  font-size: 37px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+ul{
+  text-align: left;
+  max-width: 800px;
+  margin: auto;
+  list-style-type: none;
+}
+
+h3{
+  font-family: monospace;
+  font-size: 22px;
+}
+
+li p{
+  font-size: 18px;
+}
+.container{
+  background-color: rgb(238, 238, 238);
+  padding: 5px 30px 5px 30px;
+  margin-bottom: 30px;
+  border: 2px solid rgb(71, 71, 71);
+  box-shadow: 10px 10px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+#wikipedia{
+  text-align: center;
+  color: rgb(71, 71, 71);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 22px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+a{
+  text-decoration: none;
+  font-style: bold;
+}
+
+a:hover{
+  color: #0377CC;
+}
+
+a:active{
+  color: #084875;
+  text-decoration: underline;
+}
